@@ -11,7 +11,7 @@
 
 
 <!-- ACERCA DE ESTE PROYECTO -->
-## Acerca de este proyecto
+## 🚧 - Acerca de este proyecto
 Este a sido un proyecto personal, basado en la idea de crear una web para una marca.
 
 ## 🎯 - Lenguajes usados
@@ -19,7 +19,7 @@ Este a sido un proyecto personal, basado en la idea de crear una web para una ma
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
-## Organización y Historial
+## 📖 - Organización y Historial
 * 1.0
     * Preparación en <b>bloc de notas<b/>
 
@@ -27,7 +27,7 @@ Este a sido un proyecto personal, basado en la idea de crear una web para una ma
 
 
 <!-- AGRADECIMIENTOS -->
-## Agradecimientos
+## 🥇 - Agradecimientos
 * <a href="https://chat.openai.com/">ChatGPT</a>
 * <a href="Link">...</a>
 * <a href="Link">...</a>
