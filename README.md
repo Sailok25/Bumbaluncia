@@ -39,7 +39,7 @@ Este a sido un proyecto personal, basado en la idea de crear una web para una ma
 
 <!-- ACKNOWLEDGMENTS -->
 ## Agradecimientos
-1. <a href="https://miro.com/app/board/uXjVMkzGBpg=/?share_link_id=600404706928">back to top</a>
+1. <a href="https://miro.com/app/board/uXjVMkzGBpg=/?share_link_id=600404706928">Link</a>
 2. Youtube Tutorials xd
 
 
