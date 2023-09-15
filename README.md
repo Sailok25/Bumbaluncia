@@ -10,37 +10,34 @@
 </div>
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- ACERCA DE ESTE PROYECTO -->
 ## Acerca de este proyecto
-Este a sido un proyecto personal, basado en la idea de crear una web para una marca de cereales.
+Este a sido un proyecto personal, basado en la idea de crear una web para una marca.
 
 ## Lenguajes usados
-* HTML
-* CSS
-* JavaScript
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 ## Organización y Historial
 * 1.0
-    * Preparación en <b>bloc de no
-* 2.1
-    * Creating the login & register website
-* 2.0
-    * Cfinishing CSS
-    * Full website review
-* 1.2
-    * Checking HTML bugs
-    * Starting the CSS
-* 1.1
-    * Structuring the HTML
-* 1.0
-    * Preparing the base of the web
+    * Preparación en <b>bloc de notas<b/>
 
 
-<!-- ACKNOWLEDGMENTS -->
+
+
+<!-- AGRADECIMIENTOS -->
 ## Agradecimientos
-1. <a href="https://chat.openai.com/">ChatGPT</a>
-2. Youtube Tutorials xd
+* <a href="https://chat.openai.com/">ChatGPT</a>
+* <a href="Link">...</a>
+* <a href="Link">...</a>
 
+
+
+
+<!-- LINKS -->
+## Otros proyectos
+* <a href="Link">...</a>
+* <a href="Link">...</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
