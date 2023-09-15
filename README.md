@@ -14,16 +14,15 @@
 ## Acerca de este proyecto
 Este a sido un proyecto personal, basado en la idea de crear una web para una marca de cereales.
 
-This project was created thanks to the help of my co-worker. We worked on it for 6 months as long as everything turned out well, and although this was our first project, we are satisfied with the result obtained.
-
-Acquired knowledge:
+## Lenguajes usados
 * HTML
 * CSS
+* JavaScript
 
 
-## Release History & Organization
-* 3.0
-    * Last revision and delivery project
+## Organización y Historial
+* 1.0
+    * Preparación en <b>bloc de no
 * 2.1
     * Creating the login & register website
 * 2.0
@@ -39,8 +38,8 @@ Acquired knowledge:
 
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-1. People who help me in this project
+## Agradecimientos
+1. <a href="https://miro.com/app/board/uXjVMkzGBpg=/?share_link_id=600404706928">back to top</a>
 2. Youtube Tutorials xd
 
 
