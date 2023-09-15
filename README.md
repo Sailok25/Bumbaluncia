@@ -14,7 +14,7 @@
 ## Acerca de este proyecto
 Este a sido un proyecto personal, basado en la idea de crear una web para una marca.
 
-## 🎯 - Lenguajes usados
+## Lenguajes usados
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -36,7 +36,7 @@ Este a sido un proyecto personal, basado en la idea de crear una web para una ma
 
 
 <!-- LINKS -->
-## 🛠️ - Otros proyectos
+## Otros proyectos
 * <a href="Link">...</a>
 * <a href="Link">...</a>
 
