@@ -29,8 +29,10 @@ Este a sido un proyecto personal, basado en la idea de crear una web para una ma
 <!-- AGRADECIMIENTOS -->
 ## 🥇 - Agradecimientos
 * <a href="https://chat.openai.com/">ChatGPT</a>
-* <a href="Link">...</a>
-* <a href="Link">...</a>
+
+## 🙌 - Sitios de referencia
+* <a href="https://www.kelloggs.es/">Kellog's</a>
+* <a href="https://empresa.nestle.es/es">Nestle</a>
 
 
 
