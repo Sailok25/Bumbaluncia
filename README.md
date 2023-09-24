@@ -39,7 +39,7 @@ Este a sido un proyecto personal, basado en la idea de crear una web para una ma
 
 <!-- LINKS -->
 ## 🛠️ - Otros proyectos
-* <a href="Link">...</a>
+* <a href="https://github.com/Sailok25/Catarsis">Catarsis</a>
 * <a href="Link">...</a>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
