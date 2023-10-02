@@ -20,10 +20,8 @@ Este a sido un proyecto personal, basado en la idea de crear una web para una ma
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
 ## 📖 - Organización y Historial
-* 1.0
-    * Preparación en <b>bloc de notas<b/>
-* 2.0
-    * Desenvolupamiento basico del HTML <b>Visual Studio Code<b/>
+* 1.0 - Preparación en <b>bloc de notas</b>
+* 2.0 - Desenvolupamiento basico del HTML <b>Visual Studio Code</b>
 
 
 
