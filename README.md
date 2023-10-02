@@ -22,6 +22,8 @@ Este a sido un proyecto personal, basado en la idea de crear una web para una ma
 ## 📖 - Organización y Historial
 * 1.0
     * Preparación en <b>bloc de notas<b/>
+* 2.0
+    * Desenvolupamiento basico del HTML <b>Visual Studio Code<b/>
 
 
 
