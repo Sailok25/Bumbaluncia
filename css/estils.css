@@ -1,0 +1,14 @@
+/* DECLARACIÓ TOTAL DE LA WEB*/ 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+
+#all{
+    border: 1px solid black;
+    max-width: 1920px;
+    margin: 0 auto;
+}
